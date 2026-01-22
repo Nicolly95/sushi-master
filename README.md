@@ -30,7 +30,7 @@ Simulação de fluxo de e-commerce
 
 ## 📸 Screenshots:
 ### Desktop
-![Home - Desktop](./screenshots/home-desktop.png)
+![Home - Desktop](./screenshots/home - desktop.png)
 
 ### Tablet
 ![Tablet](./screenshots/tablet.png)
