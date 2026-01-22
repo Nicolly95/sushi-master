@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🍣 Sushi Master:
+Sushi Master é uma aplicação web moderna e responsiva para delivery de sushi, desenvolvida com Next.js. O projeto executa pedidos online, incluindo listagem de produtos, carrinho de compras e fluxo de checkout em múltiplas etapas.
+Este projeto foi desenvolvido para conclusão acadâmica em desenvolvimento front-end moderno, com foco em arquitetura baseada em componentes, gerenciamento de estado global e boas práticas de UI/UX.
 
-## Getting Started
+🛠️ Tecnologias Utilizadas:
+Next.js 13+ (App Router)
+React
+TypeScript
+Tailwind CSS
+Zustand — Gerenciamento de estado global (carrinho)
+shadcn/ui — Componentes de interface
+Sonner — Notificações (toast)
 
-First, run the development server:
+✨ Funcionalidades:
+Listagem de produtos por categoria
+Adicionar e remover itens do carrinho
+Estado global do carrinho com Zustand
+Notificações ao adicionar produtos
+Formulário de checkout em múltiplas etapas
+Layout totalmente responsivo
+Interface moderna com Tailwind + shadcn/ui
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+📂 Estrutura do Projeto:
+src/
+├── app/              # Páginas (Next.js App Router)
+├── components/       # Componentes reutilizáveis
+├── stores/           # Stores globais (Zustand)
+├── types/            # Tipagens TypeScript
+├── data/             # Dados mockados (produtos/categorias)
+└── styles/           # Estilos globais
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🧠 O que aprendi com este projeto:
+Gerenciamento de estado global e persistência de dados com Zustand
+Criação de componentes reutilizáveis e escaláveis
+Implementação de formulários em múltiplas etapas com Zield e Dialog
+Integração com bibliotecas modernas de UI
+Simulação de fluxo de e-commerce
