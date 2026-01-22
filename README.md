@@ -26,3 +26,15 @@ Criação de componentes reutilizáveis e escaláveis
 Implementação de formulários em múltiplas etapas com Zield e Dialog
 Integração com bibliotecas modernas de UI
 Simulação de fluxo de e-commerce
+
+## 📸 Screenshots:
+![Home - Desktop](./screenshots/home-desktop.png)
+![Tablet](./screenshots/tablet.png)
+![Mobile](./screenshots/mobile.png)
+![ThemeToggle](./screenshots/theme-toggle.png)
+![Skeleton](./screenshots/skeleton.png)
+![Sonner](./screenshots/Sonner.png)
+![Dialog](./screenshots/Dialog.png)
+![Cart](./screenshots/cart.png)
+![Checkout](./screenshots/checkout.png)
+
