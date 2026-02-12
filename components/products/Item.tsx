@@ -56,11 +56,15 @@ export const ProductItem = ({ item }: Props) => {
             </div>
 
             <div className="mt-1 flex flex-col gap-1">                   
-                <p className="text-[18px] font-semibold">{item.name}</p>               {/* exibição do nome */}
-                <p className="text-sm opacity-60 font-bold"> R$ {item.price.toFixed(2)} </p>          
+                <p className="text-xs sm:text-sm lg:text-base font-semibold leading-tight">
+                    {item.name}
+                </p>               
+                <p className="text-xs sm:text-sm lg:text-base leading-tight opacity-60 font-bold"> 
+                    R$ {item.price.toFixed(2)} 
+                </p>          
                 <Button 
                     variant="outline"
-                    className="cursor-pointer h-8"
+                    className="cursor-pointer h-7 md:h-8"
                     onClick={handleAddButton}>
                     Adicionar
                 </Button>
