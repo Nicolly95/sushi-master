@@ -32,6 +32,15 @@ Projeto desenvolvido como conclusão acadêmica com foco em arquitetura baseada 
 - Integração com bibliotecas modernas de UI
 - Estruturação de fluxo de e-commerce front-end
 
+## 🚀 Como rodar localmente
+1. Clone o repositório  
+   `git clone https://github.com/Nicolly95/sushi-master.git`
+2. Instale as dependências  
+   `npm install`
+3. Rode o projeto  
+   `npm run dev`
+
+
 ## 📸 Screenshots:
 ### Desktop
 ![Home - Desktop](./screenshots/home-desktop.png)
