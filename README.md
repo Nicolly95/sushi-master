@@ -1,3 +1,5 @@
+🔗 Deploy: https://sushi-master-eta.vercel.app
+
 # 🍣 Sushi Master
 Sushi Master é uma aplicação web moderna e responsiva para delivery de sushi, desenvolvida com Next.js.  
 A aplicação simula um fluxo completo de e-commerce, incluindo listagem de produtos, carrinho de compras e checkout em múltiplas etapas.
