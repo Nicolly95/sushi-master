@@ -3,13 +3,13 @@
 Este projeto foi desenvolvido para conclusão acadêmica em desenvolvimento front-end moderno, com foco em arquitetura baseada em componentes, gerenciamento de estado global e boas práticas de UI/UX.
 
 🛠️ Tecnologias Utilizadas:
-Next.js 13+ (App Router) -
-React - 
-TypeScript -
-Tailwind CSS -
-Zustand ( Gerenciamento de estado global (carrinho)) -
-shadcn/ui (Componentes de interface) - 
-Sonner (Notificações (toast))
+• Next.js 13+ (App Router) •
+• React •
+• TypeScript •
+• Tailwind CSS •
+• Zustand ( Gerenciamento de estado global (carrinho)) •
+• Shadcn/ui (Componentes de interface) • 
+• Sonner (Notificações (toast)) •
 
 ✨ Funcionalidades:
 Listagem de produtos por categoria
@@ -24,7 +24,7 @@ Interface moderna com Tailwind + shadcn/ui
 🧠 O que aprendi com este projeto:
 Gerenciamento de estado global e persistência de dados com Zustand
 Criação de componentes reutilizáveis e escaláveis
-Implementação de formulários em múltiplas etapas com Zield e Dialog
+Implementação de formulários em múltiplas etapas com Zod e Field
 Integração com bibliotecas modernas de UI
 Simulação de fluxo de e-commerce
 
